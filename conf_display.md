@@ -2,6 +2,7 @@
 
 - prereqs:
     - install nvidia drivers
+    - install the [python-api from ai2-thor](https://github.com/NextCenturyCorporation/MCS/tree/481fb967a3e3d259e9594d3e0cdce7bb09a68e34/python_api)
 
 - get  the  gpu busid
 
